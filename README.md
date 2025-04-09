@@ -8,4 +8,5 @@ O objetivo desse projeto é montar uma página para os óculos <i>Google Glass</
 ## 🖖🏾Plataforma de ensino Curso em Vídeo
 A plataforma Curso em Vídeo foi lançado em 2013, com o objetivo de ensinar tecnologia à distância com aulas 100% gratuitas. A plataforma conta com dezenas de cursos gratuítos de altíssima qualidade. Recomendo a todos, principalmente iniciantes na área da tecnologia. </br>
 
-🔗Link para a plataforma: <a href="https://www.cursoemvideo.com/cursos" target="_blank">Curso em Vídeo</a>
+🔗Link para a plataforma: <a href="https://www.cursoemvideo.com/cursos" target="_blank">Curso em Vídeo</a> </br>
+🔗Link para o GitHub do professor Gustavo Guanabara: <a href="https://github.com/gustavoguanabara" target="_blank">Gustavo Guanabara</a>
